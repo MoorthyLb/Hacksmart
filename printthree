@@ -1,0 +1,6 @@
+#include<stdio.h>
+{
+printf("Line1");
+printf("Line2");
+printf("Line3");
+}
