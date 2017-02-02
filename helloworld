@@ -1,5 +1,5 @@
 #include<stdio.h>
 {
     /* My first C Program */
-    printf("hello, world");
+    printf("Moorthy");
 }
