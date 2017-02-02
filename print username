@@ -1,0 +1,12 @@
+#include<stdio.h>
+{
+char ln;
+char fn=moorthy;
+
+void main()
+printf("your first name");
+scanf("%s",fn);
+printf("your last name");
+scanf("%s",&ln);
+
+}
