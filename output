@@ -1,0 +1,6 @@
+main()
+{
+    float a,b;
+    scanf("%d%d",&a,&b);
+    printf("%f%f",a,b);
+}
