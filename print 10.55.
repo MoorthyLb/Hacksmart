@@ -1,0 +1,5 @@
+#include<stdio.h>
+{
+float a=10.55;
+printf("%f",a);
+}
